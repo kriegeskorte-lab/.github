@@ -1,4 +1,4 @@
-![](images/logo.png)
+![](./VIL_logo.png)
 
 ## Introduction
 
