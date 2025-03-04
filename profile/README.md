@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The **Visual Inference Lab** is based at the **Mortimer B. Zuckerman Mind Brain Behavior Institute** at Columbia University in the City of New York. We are a research group dedicated to exploring computation mechanisms of vision in both biological and artificial systems.
+The **Visual Inference Lab** is based at the **Mortimer B. Zuckerman Mind Brain Behavior Institute** at **Columbia University in the City of New York**. We are a research group dedicated to exploring computation mechanisms of vision in both biological and artificial systems.
 
 ## Objective
 
